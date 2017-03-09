@@ -1,2 +1,2 @@
 # awesome-sensenet
-This is az awesome sensenet list
+This is an awesome sensenet list
